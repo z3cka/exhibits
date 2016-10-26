@@ -745,5 +745,5 @@ $databases['default']['default'] = array (
   'driver' => 'mysql',
 );
 $settings['install_profile'] = 'standard';
-$config_directories['sync'] = 'sites/uclalibraryexhibits.dev.dd/files/config__w8Naepkw2wC-MlMJPhw7x2jXjgvi-3NwXb2F0oUDw8fJWYkfIC6nOMjdk_UJyeiLXOTWZpSnw/sync';
-// $config_directories[CONFIG_SYNC_DIRECTORY] = 'sites/default/sync';
+//$config_directories['sync'] = 'sites/uclalibraryexhibits.dev.dd/files/config__w8Naepkw2wC-MlMJPhw7x2jXjgvi-3NwXb2F0oUDw8fJWYkfIC6nOMjdk_UJyeiLXOTWZpSnw/sync';
+$config_directories[CONFIG_SYNC_DIRECTORY] = 'sites/default/sync';
