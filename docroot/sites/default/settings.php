@@ -308,7 +308,7 @@ $settings['hash_salt'] = 'cgMrWRD2EBkjEYUWWwc3kp5Kpanz0TcARlZ-ueNpwObCJZj-Lwoenq
  * After finishing the upgrade, be sure to open this file again and change the
  * TRUE back to a FALSE!
  */
-$settings['update_free_access'] = FALSE;
+$settings['update_free_access'] = TRUE;
 
 /**
  * External access proxy settings:
@@ -745,4 +745,5 @@ $databases['default']['default'] = array (
   'driver' => 'mysql',
 );
 $settings['install_profile'] = 'standard';
-$config_directories['sync'] = 'sites/uclalibraryexhibits.dev.dd/files/config__w8Naepkw2wC-MlMJPhw7x2jXjgvi-3NwXb2F0oUDw8fJWYkfIC6nOMjdk_UJyeiLXOTWZpSnw/sync';
+//$config_directories['sync'] = 'sites/uclalibraryexhibits.dev.dd/files/config__w8Naepkw2wC-MlMJPhw7x2jXjgvi-3NwXb2F0oUDw8fJWYkfIC6nOMjdk_UJyeiLXOTWZpSnw/sync';
+$config_directories[CONFIG_SYNC_DIRECTORY] = 'sites/default/sync';
