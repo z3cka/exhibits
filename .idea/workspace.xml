@@ -33,8 +33,8 @@
       <file leaf-file-name="settings.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docroot/sites/default/settings.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.7152778" vertical-offset="4446" max-vertical-offset="11310">
-              <caret line="317" column="13" selection-start-line="317" selection-start-column="13" selection-end-line="317" selection-end-column="13" />
+            <state vertical-scroll-proportion="0.7916667" vertical-offset="10878" max-vertical-offset="11310">
+              <caret line="748" column="3" selection-start-line="748" selection-start-column="3" selection-end-line="748" selection-end-column="3" />
               <folding>
                 <element signature="e#7#2132#0#PHP" expanded="true" />
               </folding>
@@ -352,11 +352,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1390" height="837" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Floobits" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32795697" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32795697" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -548,8 +548,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docroot/sites/default/settings.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.7152778" vertical-offset="4446" max-vertical-offset="11310">
-          <caret line="317" column="13" selection-start-line="317" selection-start-column="13" selection-end-line="317" selection-end-column="13" />
+        <state vertical-scroll-proportion="0.7916667" vertical-offset="10878" max-vertical-offset="11310">
+          <caret line="748" column="3" selection-start-line="748" selection-start-column="3" selection-end-line="748" selection-end-column="3" />
           <folding>
             <element signature="e#7#2132#0#PHP" expanded="true" />
           </folding>
